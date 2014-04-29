@@ -1,0 +1,1 @@
+MessageBox(OK, 1, INFORMATION, "Hello, World.", "Oriel Says Hello", ResponseValue)
