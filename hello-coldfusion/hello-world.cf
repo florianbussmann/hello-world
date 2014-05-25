@@ -1,0 +1,4 @@
+<cfscript>
+    variables.greeting = "Hello, World.";
+    WriteOutput( variables.greeting );
+</cfscript>
