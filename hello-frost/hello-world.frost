@@ -1,0 +1,5 @@
+import "io.frost";
+ 
+main:args {
+    [print string:"Hello, World.\n" format:{}];
+}
